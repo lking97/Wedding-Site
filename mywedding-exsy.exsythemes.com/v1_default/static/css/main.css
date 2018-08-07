@@ -10,7 +10,7 @@ Author: EXSYthemes
 2. FULL PAGE
   - 2.1. Images Background
   - 2.2. Block Info Text
-  - 2.3. Countdown 
+  - 2.3. Countdown
   - 2.4. Swirl Date
   - 2.5. Btn And Arrow More
 3. CONTENT
@@ -18,7 +18,7 @@ Author: EXSYthemes
   - 3.2. Single Happy
   - 3.3. Love Story
   - 3.4. Section Gallery
-  - 3.5. Location 
+  - 3.5. Location
   - 3.6. Donation
   - 3.7. Footer
 4. RESPONSIVE
@@ -173,7 +173,7 @@ img {
 	top:0;
 	left:0;
 	right:0;
-	bottom:0; 
+	bottom:0;
 	z-index:9999;
 }
 
@@ -240,7 +240,7 @@ img {
 }
 
 .v-align{
-	display: table-cell;	
+	display: table-cell;
 }
 
 .center-middle{
@@ -251,12 +251,12 @@ img {
 .heart-animation {
 	display: inline-block;
 	margin: 0 auto;
-	font-size: 21px; 
+	font-size: 21px;
 	line-height: 21px;
 	letter-spacing:-21px;
 }
 
-.heart-animation.one {	
+.heart-animation.one {
 	-webkit-animation: heart-zoom infinite 1s;
 	   -moz-animation: heart-zoom infinite 1s;
 		-ms-animation: heart-zoom infinite 1s;
@@ -691,7 +691,7 @@ span.swirl-right {
 }
 
 .section-title span{
-	position: relative;    
+	position: relative;
 	text-transform: uppercase;
 }
 
@@ -882,7 +882,7 @@ span.swirl-right {
 }
 
 .single-happy .info-box-wrap{
-	position: relative; 
+	position: relative;
 	margin: 20px;
 	border: 1px solid #fff;
 	max-height: 310px;
@@ -939,7 +939,7 @@ span.swirl-right {
 	border: 1px solid transparent;
 	border-radius: 50%;
 	transition: all .3s ease;
-} 
+}
 
 .single-happy .info-box-text ul li a i:hover{
 	opacity: .6;
@@ -1574,7 +1574,7 @@ span.swirl-right {
 	}
 }
 
-@media only screen and (max-height: 700px)  { 
+@media only screen and (max-height: 700px)  {
 	.all-title {
 		font-size: 80px;
 	}
@@ -1597,7 +1597,7 @@ span.swirl-right {
 		padding: 10px 0;
 	}
 }
-@media only screen and (max-height: 650px)  { 
+@media only screen and (max-height: 650px)  {
 	.title-date {
 		padding: 0;
 	}
@@ -1619,7 +1619,7 @@ span.swirl-right {
 	}
 	.icon-l-arrows-slim-down-dashed {
 		font-size: 22px;
-		padding: 9px 0; 
+		padding: 9px 0;
 	}
 }
 
@@ -1713,8 +1713,7 @@ span.swirl-right {
 		display: none;
 	}
 	.img-responsive {
-    	margin: 0 auto;
-    	height: 200px;
+;
 	}
 	.story-content p.text-right {
     	text-align: left;
@@ -1732,7 +1731,7 @@ span.swirl-right {
 	}
 	.story-section .together {
     	margin-top: 20px;
-	}    	
+	}
 	.story-section .offer {
     	margin-top: 20px;
 	}
@@ -1936,7 +1935,7 @@ span.swirl-right {
   		width: 100%;
   	}
   	.section-title {
-  		margin: 25px 0; 
+  		margin: 25px 0;
   	}
   	.section-title.t60 {
   		margin-top: 25px;

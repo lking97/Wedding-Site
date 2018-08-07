@@ -1713,7 +1713,8 @@ span.swirl-right {
 		display: none;
 	}
 	.img-responsive {
-;
+    	margin: 0 auto;
+    	height: 200px;
 	}
 	.story-content p.text-right {
     	text-align: left;

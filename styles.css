@@ -1,3 +1,24 @@
+body {
+    background-color: #d9d9d9;
+}
+
+h1 {
+    text-align: center;
+}
+
 .wrapper {
     text-align: center;
+}
+
+.button {
+    background-color: #754198;
+    border: none;
+    color: #d9d9d9;
+    padding: 15px 32px;
+    top: 50%;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: auto;
+    cursor: pointer;
 }
